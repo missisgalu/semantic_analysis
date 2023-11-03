@@ -1,0 +1,49 @@
+body {
+  background-color: #e6f9ff;
+  font-family: "Comfortaa", Arial, sans-serif;
+}
+
+  
+  header {
+    background-color: #b3d9ff;
+    padding: 18px; 
+  }
+  
+  h1, h2 {
+    color: #004085;
+  }
+  
+  .logo img {
+    width: 100px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex; 
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #000;
+    margin-right: 20px;
+  }
+  
+  main {
+    text-align: justify;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 15px;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .logo h1 {
+    margin: 0;
+  }
+  
+  /* стили для других блоков */
